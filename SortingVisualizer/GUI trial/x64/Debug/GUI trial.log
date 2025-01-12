@@ -1,0 +1,90 @@
+﻿  AlgoObjectTest.cpp
+  GUI trial.cpp
+E:\VS projects\SortingVisualizer\GUI trial\GUI trial.cpp(107,56): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+E:\VS projects\SortingVisualizer\GUI trial\GUI trial.cpp(131,83): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\VS projects\SortingVisualizer\GUI trial\GUI trial.cpp(131,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\VS projects\SortingVisualizer\GUI trial\GUI trial.cpp(187,84): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\VS projects\SortingVisualizer\GUI trial\GUI trial.cpp(187,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\VS projects\SortingVisualizer\GUI trial\GUI trial.cpp(190,90): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\VS projects\SortingVisualizer\GUI trial\GUI trial.cpp(190,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\VS projects\SortingVisualizer\GUI trial\GUI trial.cpp(232,56): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+E:\VS projects\SortingVisualizer\GUI trial\GUI trial.cpp(365,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\VS projects\SortingVisualizer\GUI trial\GUI trial.cpp(369,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\VS projects\SortingVisualizer\GUI trial\GUI trial.cpp(373,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\VS projects\SortingVisualizer\GUI trial\GUI trial.cpp(381,81): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\VS projects\SortingVisualizer\GUI trial\GUI trial.cpp(385,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\VS projects\SortingVisualizer\GUI trial\GUI trial.cpp(394,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\VS projects\SortingVisualizer\GUI trial\GUI trial.cpp(52,43): warning C4244: 'argument': conversion from 'double' to 'const T', possible loss of data
+          with
+          [
+              T=int
+          ]
+E:\VS projects\SortingVisualizer\GUI trial\GUI trial.cpp(347,5): message : see reference to function template instantiation 'void handleUserInput<int>(sf::RenderWindow &,Vector<int> &,sf::Font &,const sf::RectangleShape &)' being compiled
+E:\VS projects\SortingVisualizer\GUI trial\AlgosHeader.h(197,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\VS projects\SortingVisualizer\GUI trial\AlgosHeader.h(176,176): message : while compiling class template member function 'void SortingAlgorithms<int>::count_sort(Vector<int> &,int,sf::RenderWindow &,sf::Font &,int,int,bool,Vector<int> &)'
+E:\VS projects\SortingVisualizer\GUI trial\AlgosHeader.h(211,189): message : while compiling class template member function 'void SortingAlgorithms<int>::radix_sort(Vector<int> &,int,sf::RenderWindow &,sf::Font &,sf::Sound &,int,bool,Vector<int> &)'
+E:\VS projects\SortingVisualizer\GUI trial\GUI trial.cpp(390,35): message : see the first reference to 'SortingAlgorithms<int>::radix_sort' in 'main'
+E:\VS projects\SortingVisualizer\GUI trial\GUI trial.cpp(351,28): message : see reference to class template instantiation 'SortingAlgorithms<int>' being compiled
+E:\VS projects\SortingVisualizer\GUI trial\AlgosHeader.h(100,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\VS projects\SortingVisualizer\GUI trial\AlgosHeader.h(98,1): message : while compiling class template member function 'void SortingAlgorithms<int>::drawBars(sf::RenderWindow &,Vector<int> &,sf::Font &,int,Vector<int> &,int,int,float,float,float,float)'
+E:\VS projects\SortingVisualizer\GUI trial\AlgosHeader.h(111,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\VS projects\SortingVisualizer\GUI trial\AlgosHeader.h(113,19): warning C4244: 'initializing': conversion from 'size_t' to 'float', possible loss of data
+E:\VS projects\SortingVisualizer\GUI trial\AlgosHeader.h(153,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\VS projects\SortingVisualizer\GUI trial\AlgosHeader.h(151,1): message : while compiling class template member function 'void SortingAlgorithms<int>::animateSwap(sf::RenderWindow &,Vector<int> &,sf::Font &,int,int,int,int,Vector<int> &)'
+E:\VS projects\SortingVisualizer\GUI trial\AlgosHeader.h(320,14): message : see the first reference to 'SortingAlgorithms<int>::animateSwap' in 'SortingAlgorithms<int>::HeapSort'
+E:\VS projects\SortingVisualizer\GUI trial\GUI trial.cpp(394,33): message : see the first reference to 'SortingAlgorithms<int>::HeapSort' in 'main'
+  Generating Code...
+E:\VS projects\SortingVisualizer\GUI trial\GUI trial.cpp(309): warning C4715: 'displayEndScreen': not all control paths return a value
+  GUI trial.vcxproj -> E:\VS projects\SortingVisualizer\x64\Debug\GUI trial.exe
